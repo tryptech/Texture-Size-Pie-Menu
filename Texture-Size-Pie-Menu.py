@@ -8,7 +8,7 @@ bl_info = {
     "author": "tryptech",
     "version": (1, 0),
     "blender": (2, 80, 0),
-    "location": "View3D",
+    "location": "View3D > Alt-X",
     "description": "Quickly change the viewport texture size limit from the 3D View",
     "category": "3D View",
     }
